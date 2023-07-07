@@ -1,4 +1,4 @@
-baseURL = 'https://chw.ink'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'ch[arles] wink[elman]'
 theme = 'ananke'
