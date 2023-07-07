@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ch[arles] wink[elman]</title>
+    <link>https://chw.ink/</link>
+    <description>Recent content on ch[arles] wink[elman]</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jul 2023 12:31:16 -0400</lastBuildDate><atom:link href="https://chw.ink/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://chw.ink/posts/my-first-post/</link>
+      <pubDate>Fri, 07 Jul 2023 12:31:16 -0400</pubDate>
+      
+      <guid>https://chw.ink/posts/my-first-post/</guid>
+      <description>Introduction This is some very markedup text. Wow. oh no
+Visit Hugo website!</description>
+    </item>
+    
+  </channel>
+</rss>
